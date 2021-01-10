@@ -1,8 +1,0 @@
-Cuando se crea una aplicación se dividen en modulos
-
-El archivo principal se le llama "index.js"
-
-Para exportar un objeto fuera de un módulo se puede hacer de dos formas
-1. Con exports.nombre();   Esta opción exporta la propiedad del objeto que se nombra
-2. module.exports = nombre;    Esta opción exporta objetos, funciones, etc.
-
